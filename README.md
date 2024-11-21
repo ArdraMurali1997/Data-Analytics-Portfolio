@@ -2,7 +2,7 @@
 Ardra M - Data Analytics Portfolio
 
 Data-Driven Stories: 
-Transforming data into insights by showcasing my passion and expertise in Excel, SQL, Power BI, Tableau, and Python. Explore my journey through impactful and dynamic analytics projects.**
+Transforming data into insights by showcasing my passion and expertise in Excel, SQL, Power BI, Tableau, and Python. Explore my journey through impactful and dynamic analytics projects.
 
 About Me:
 Hello! I’m Ardra, a data enthusiast currently diving deep into the world of data analytics. With a strong foundation in Excel, SQL and Power BI,I am dedicated to uncovering insights that drive smarter business decisions.I am currently expanding my toolkit with Tableau, Python, SAS and statistics.
@@ -17,4 +17,4 @@ Tableau: In progress
 Python: In progress
 
 Projects
-In progress..
+In progress...
