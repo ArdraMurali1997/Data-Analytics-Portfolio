@@ -19,10 +19,11 @@ Python: In progress
 Projects
 1. Excel:
    a. Assignments
-2. SQL:
+   b. Macro
+3. SQL:
    a. Library Management Project
    b. Assignments
-3. PowerBI:
+4. PowerBI:
    a. Weekly Business Report Project
-4. Tableau: (in progress)
-5. Python: (in progress)
+5. Tableau: (in progress)
+6. Python: (in progress)
