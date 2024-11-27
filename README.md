@@ -17,4 +17,12 @@ Tableau: In progress
 Python: In progress
 
 Projects
-In progress...
+1. Excel:
+   a. Assignments
+2. SQL:
+   a. Library Management Project
+   b. Assignments
+3. PowerBI:
+   a. Weekly Business Report Project
+4. Tableau: (in progress)
+5. Python: (in progress)
